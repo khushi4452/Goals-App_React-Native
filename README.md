@@ -12,5 +12,5 @@ The **Goals App** is a cross-platform mobile application built using **React Nat
 
 - **React Native**: Core framework for building the app's UI and functionality.
 - **JavaScript**: For app logic and structure.
-- **Expo**: Simplifies development and testing for both Android and iOS.
+- **Expo**: Simplifies development and testing for both Android and iOS
 
